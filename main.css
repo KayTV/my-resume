@@ -105,3 +105,15 @@ th {
     font-family: "arial";
     font-size: 30px;
 }
+
+h4 {
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: #b3d8ff;
+  width: 200px;
+  text-align: center;
+  margin-left: 37%;
+}
+h5 {
+  font-size: 25px;
+}
