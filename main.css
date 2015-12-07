@@ -74,3 +74,34 @@ li a:hover {
     margin-left: 70%;
     margin-bottom: 20px;
 }
+
+/*About me page*/
+
+h3 {
+  font-size: 40px;
+}
+
+.smaller_img {
+  height: 460px;
+  width: 315px;
+  border-radius: 25px;
+}
+
+.table_img {
+  height: 200px;
+  width: 200px;
+}
+
+/*table, td {
+	border: 1px #70b8ff dashed;
+}*/
+
+td {
+  width: 220px;
+}
+
+th {
+    text-align: center;
+    font-family: "arial";
+    font-size: 30px;
+}
